@@ -110,13 +110,23 @@ useHead({
               BLUE BEAN
             </span>
           </div>
+
+<a  href="https://shorturl.at/rtvwQ"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Read more about Blue Bean.">
           <button
             class="relative overflow-hidden rounded-full bg-gradient-to-r from-[#FF00F5] to-[#00DBDE] px-8 py-1 text-sm font-bold sm:px-10 sm:py-2 sm:text-base"
-            @click="scrollToAnchor('beanz')"
           >
             <AtomsOverlay />
-            <span class="relative">Buy BEANZ</span>
+            <span class="relative">Docs</span>
           </button>
+        </a>
+
+
+
+
+
         </nav>
       </header>
 
@@ -400,16 +410,18 @@ useHead({
             </div>
 
             <div class="mt-20 flex justify-center">
+              <a href="https://t.me/+4jVYbWVFwjE2ZTBk">
               <button
                 id="beanz"
                 class="relative w-[450px] max-w-xs overflow-hidden rounded-full bg-gradient-to-r from-[#FF00F5] to-[#00DBDE] py-3 text-lg font-semibold transition duration-700 disabled:opacity-20"
                 :disabled="loading"
-                @click="connect"
+
               >
                 <AtomsOverlay />
                 <span v-if="loading" class="relative">Loading...</span>
-                <span v-else class="relative">Buy BEANZ</span>
+                <span v-else class="relative">Get Started</span>
               </button>
+            </a>
             </div>
           </div>
         </section>
