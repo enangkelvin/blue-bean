@@ -32,7 +32,7 @@ const metadata = {
   name: "Blue Bean",
   description:
     "BlueBean is a decentralized social Experiment on Base Ecosystem",
-  url: "https://blue-bean.vercel.app",
+  url: "https://blue-bean.xyz",
 };
 const chains = [mainnet, arbitrum];
 const wagmiConfig = defaultWagmiConfig({ chains, projectId, metadata });
@@ -49,7 +49,7 @@ const connect = async () => {
 };
 
 const currTime = ref($dayjs());
-const startTime = $dayjs("2023-10-16  00:00:00");
+const startTime = $dayjs("2023-10-20  00:00:00");
 const endTime = $dayjs("2023-11-18 23:59:00");
 const timeToStart = computed(() =>
   $dayjs.duration(startTime.diff(currTime.value)),
@@ -102,7 +102,7 @@ useHead({
         >
           <div class="flex items-center">
             <NuxtImg
-              src="/blue-bean.webp"
+              src="bblogo.png"
               alt="logo"
               class="w-10 min-[375px]:w-12 lg:w-16"
             />
@@ -111,7 +111,7 @@ useHead({
             </span>
           </div>
 
-<a  href="https://shorturl.at/rtvwQ"
+<a  href="https://shorturl.at/dkKPX"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Read more about Blue Bean.">
@@ -157,7 +157,7 @@ useHead({
                 chains.
               </p>
               <a
-                href="https://shorturl.at/rtvwQ"
+                href="https://shorturl.at/dkKPX"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Read more about Blue Bean."
