@@ -106,9 +106,7 @@ useHead({
               alt="logo"
               class="w-10 min-[375px]:w-12 lg:w-16"
             />
-            <span class="font-bold min-[375px]:text-lg sm:text-xl lg:text-2xl">
-              BLUE BEAN
-            </span>
+           
           </div>
 
 <a  href="https://shorturl.at/dkKPX"
