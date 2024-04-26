@@ -13,7 +13,7 @@ const spicyChips = localFont({
 
 export const metadata: Metadata = {
   title: "Blue Bean",
-  description: "A decentralized social Experiment on Solana Ecosystem.",
+  description: "A decentralized social Experiment on Ton Ecosystem.",
 };
 
 export default function RootLayout({
