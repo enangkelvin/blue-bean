@@ -4,7 +4,7 @@ export default function HowToBuySection() {
   const buyMethods = [
     {
       title: "Create a Wallet",
-      content: `<p>Download your <span class="font-bold">preferred wallet</span> either phantom or any other solana supported wallet.</p>`,
+      content: `<p>Download <span class="font-bold">Tonkeeper</span> wallet.</p>`,
       bg: "bg-[#FC6]",
       text: "text-[#FC6]",
       classes: "sm:ml-6",
@@ -16,8 +16,8 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Use Sol to purchase $BEANZ",
-      content: `<p>You can <span class="font-bold">Purchase sol</span> On your <span class="font-bold">wallet</span> direct with your banking card, or you can buy in exchange and send to your new wallet address.</p>`,
+      title: "Use Ton to purchase $BEANZ",
+      content: `<p>You can <span class="font-bold">Purchase Ton</span> On your <span class="font-bold">wallet</span> direct with your banking card, or you can buy from an exchange like Kucoin or Mexc and send to your new wallet address.</p>`,
       bg: "bg-[#FF6D66]",
       text: "text-[#FF6D66]",
       classes: "sm:ml-6 sm:mt-4",
@@ -29,7 +29,7 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Go to RaYdium",
+      title: "Go to Ston.Fi",
       content: `<p><a href="#">SPace for link</a> From your <span class="font-bold">mobile wallet browser</span> or via <span class="font-bold">google chrome on pc</span>. Connect your wallet to the site and sign the wallet signature.</p>`,
       bg: "bg-[#9FB3FF]",
       text: "text-[#9FB3FF]",
@@ -41,8 +41,8 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Swap SOL for <br/>$BEANZ",
-      content: "<p>Switch Sol to $BEANZ, and fatten the bean.</p>",
+      title: "Swap TON for <br/>$BEANZ",
+      content: "<p>Switch Ton to $BEANZ, and fatten the bean.</p>",
       bg: "bg-[#65CAFD]",
       text: "text-[#65CAFD]",
       classes: "sm:mt-4",
@@ -64,7 +64,7 @@ export default function HowToBuySection() {
           <div className="border-4 border-black bg-[#F0F0F0] rounded-[31px] sm:py-9 py-5 sm:px-14 px-3 relative z-[1]">
             <p className="text-[#373E67] font-medium sm:text-xl">
               BlueBean is a decentralized social Experiment on{" "}
-              <span className="font-bold text-[#59B7E9]">Solana Ecosystem</span>
+              <span className="font-bold text-[#59B7E9]">Ton Ecosystem</span>
               {""}, where a Degen community builds and governs an ecosystem ,
               where a Degen community builds and governs an ecosystem focused on
               fighting{" "}
@@ -76,7 +76,7 @@ export default function HowToBuySection() {
               </span>{" "}
               to <span className="font-bold text-[#59B7E9]">holders</span>.
               BlueBean Ecosystem will launch on{" "}
-              <span className="font-bold text-[#59B7E9]">Solana</span> and
+              <span className="font-bold text-[#59B7E9]">Ton</span> and
               subsequently other{" "}
               <span className="font-bold text-[#59B7E9]">chains</span>.
             </p>
