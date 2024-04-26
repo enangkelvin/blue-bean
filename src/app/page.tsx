@@ -40,7 +40,7 @@ export default function Home() {
           />
           <div className="flex gap-6">
             <Link
-              href="https://t.me/+4jVYbWVFwjE2ZTBk"
+              href="https://t.me/bluebeanton"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Join us on Telegram"
@@ -56,7 +56,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://twitter.com/bluebeantoken?t=VsGcighc8a-TetXH7sciKA&s=09"
+              href="https://twitter.com/bluebean_xyz"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Follow us on Twitter"
@@ -74,7 +74,7 @@ export default function Home() {
           <span className="z-[1]">
             ©{" "}
             <span className="font-spicy">
-              Copy right 2023 all rights reserved{" "}
+              Blue Bean 2024 all rights reserved{" "}
             </span>
           </span>
         </div>
