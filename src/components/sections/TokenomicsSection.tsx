@@ -13,11 +13,11 @@ export default function TokenomicsSection() {
       content: {
         classes: "flex flex-col-reverse",
         main: {
-          text: "Transaction Tax",
+          text: "DEX & CEX Listing",
           classes: "sm:text-3xl text-xs px-2",
         },
         sub: {
-          text: "10%",
+          text: "35%",
           classes:
             "sm:text-7xl text-lg font-spicy sm:leading-10 leading-tight sm:mt-6",
         },
@@ -33,11 +33,11 @@ export default function TokenomicsSection() {
       content: {
         classes: "flex flex-col-reverse",
         main: {
-          text: "Supply Locked",
+          text: "Staking & Airdrop",
           classes: "sm:text-3xl text-[13.665px] px-2",
         },
         sub: {
-          text: "100%",
+          text: "35%",
           classes: "sm:text-[37.5px] text-[17px] font-spicy leading-tight",
         },
       },
@@ -51,9 +51,13 @@ export default function TokenomicsSection() {
       imageClasses: "",
       content: {
         main: {
-          text: "no Team Tokens",
+          text: "30%",
           classes:
             "text-[20.7px] sm:text-[43.5px] font-spicy px-2 leading-tight",
+        },
+        sub: {
+          text: "Presale & Partnership",
+          classes: "sm:text-[37.5px] text-[17px] font-spicy leading-tight",
         },
       },
     },
