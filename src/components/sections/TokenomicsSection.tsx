@@ -37,7 +37,7 @@ export default function TokenomicsSection() {
           classes: "sm:text-3xl text-[13.665px] px-2",
         },
         sub: {
-          text: "35%",
+          text: "25%",
           classes: "sm:text-[37.5px] text-[17px] font-spicy leading-tight",
         },
       },
@@ -70,11 +70,11 @@ export default function TokenomicsSection() {
       imageClasses: "sm:w-full",
       content: {
         main: {
-          text: "Maximum supply",
+          text: "Team & community Games",
           classes: "sm:text-[34px] text-[13.6px] px-4",
         },
         sub: {
-          text: "1,000,000,000",
+          text: "10%",
           classes: "sm:text-[42.5px] text-[17px] font-spicy",
         },
       },
