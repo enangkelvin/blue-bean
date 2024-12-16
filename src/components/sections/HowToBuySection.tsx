@@ -64,7 +64,7 @@ export default function HowToBuySection() {
           <div className="border-4 border-black bg-[#F0F0F0] rounded-[31px] sm:py-9 py-5 sm:px-14 px-3 relative z-[1]">
             <p className="text-[#373E67] font-medium sm:text-xl">
               BlueBean is a decentralized social Experiment on{" "}
-              <span className="font-bold text-[#59B7E9]">Ton Ecosystem</span>
+              <span className="font-bold text-[#59B7E9]">SOLANA Ecosystem</span>
               {""}, where a Degen community builds and governs an ecosystem ,
               where a Degen community builds and governs an ecosystem focused on
               fighting{" "}
@@ -76,7 +76,7 @@ export default function HowToBuySection() {
               </span>{" "}
               to <span className="font-bold text-[#59B7E9]">holders</span>.
               BlueBean Ecosystem will launch on{" "}
-              <span className="font-bold text-[#59B7E9]">Ton</span> and
+              <span className="font-bold text-[#59B7E9]">SOLANA</span> and
               subsequently other{" "}
               <span className="font-bold text-[#59B7E9]">chains</span>.
             </p>
