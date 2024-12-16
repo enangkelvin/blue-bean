@@ -65,8 +65,7 @@ export default function HowToBuySection() {
             <p className="text-[#373E67] font-medium sm:text-xl">
               BlueBean is a decentralized social Experiment on{" "}
               <span className="font-bold text-[#59B7E9]">SOLANA Ecosystem</span>
-              {""}, where a Degen community builds and governs an ecosystem ,
-              where a Degen community builds and governs an ecosystem focused on
+              {""}, where a Degen community builds and governs an ecosystem focused on
               fighting{" "}
               <span className="font-bold text-[#59B7E9]">global hunger</span>.
               The goal of the BEANZ token is to enable the DAO, acting as the
