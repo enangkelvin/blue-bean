@@ -6,13 +6,11 @@ export default function RoadmapSection() {
   const roadmaps = [
     {
       phase: "(Phase 01)",
-      title: "Launch Week",
+      title: "Relaunch Week",
       steps: [
-        "TGE",
-        "Marketing",
+        "Airdrop Redistribution Form",
+        "Expand Workforce",
         "Community Building",
-        "2k holders",
-        "Marketcap surge marketing",
       ],
       bg: "bg-[#9FB3FF]",
       text: "text-[#9FB3FF]",
@@ -21,7 +19,7 @@ export default function RoadmapSection() {
     {
       phase: "(Phase 02)",
       title: "Fatten the Bean",
-      steps: ["Consolidate", "Channel calls", "Marketing", "5k holders"],
+      steps: ["Announce token launch date", "Marketing", "Channel calls", "Marketing", "Blue-Bean trading Bot launch(Beta)", "Token creation on Pump.fun", "TDE (Airdrop distribution)"],
       bg: "bg-[#FFCC66]",
       text: "text-[#FFCC66]",
     },
@@ -29,9 +27,10 @@ export default function RoadmapSection() {
       phase: "(Phase 03)",
       title: "Listings",
       steps: [
-        "Exchange and wallet listings",
+        "DEX listings",
         "CMC and coingecko",
         "Keep the BEANZ pumping",
+        "5K Holders",
       ],
       bg: "bg-[#9BDFFF]",
       text: "text-[#9BDFFF]",
@@ -39,7 +38,7 @@ export default function RoadmapSection() {
     {
       phase: "(Phase 04)",
       title: "Hunger Charity",
-      steps: ["Community funded hunger charity."],
+      steps: ["Community funded hunger charity.", "Launch Trading Bot", "CEX listings"],
       bg: "bg-[#393E66]",
       text: "text-[#393E66]",
     },
