@@ -33,7 +33,7 @@ export default function TokenomicsSection() {
       content: {
         classes: "flex flex-col-reverse",
         main: {
-          text: "Pump.fun",
+          text: "DEX/Liquidity",
           classes: "sm:text-3xl text-[13.665px] px-2",
         },
         sub: {
