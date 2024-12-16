@@ -51,7 +51,7 @@ export default function RoadmapSection() {
     >
       <div className="container mx-auto xl:px-20 2xl:px-0">
         <h2 className="flex justify-center">
-          <span className="visually-hidden">Blue Bean Roadmap</span>
+          <span className="visually-hidden">Blue Bean Relaunch Strategy</span>
           <RoadmapHeading />
           <RoadmapHeadingMobile />
         </h2>
