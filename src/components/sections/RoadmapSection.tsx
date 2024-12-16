@@ -19,7 +19,7 @@ export default function RoadmapSection() {
     {
       phase: "(Phase 02)",
       title: "Fatten the Bean",
-      steps: ["Announce token launch date", "Marketing", "Channel calls", "Marketing", "Blue-Bean trading Bot launch(Beta)", "Token creation on Pump.fun", "TDE (Airdrop distribution)"],
+      steps: ["Announce token launch date", "Marketing", "Channel calls", "Blue-Bean trading Bot launch(Beta)", "Token creation on Pump.fun", "TDE (Airdrop distribution)"],
       bg: "bg-[#FFCC66]",
       text: "text-[#FFCC66]",
     },
