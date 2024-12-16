@@ -13,11 +13,11 @@ export default function TokenomicsSection() {
       content: {
         classes: "flex flex-col-reverse",
         main: {
-          text: "DEX & CEX Listing",
+          text: "Airdrop & Partnership",
           classes: "sm:text-3xl text-xs px-2",
         },
         sub: {
-          text: "35%",
+          text: "13%",
           classes:
             "sm:text-7xl text-lg font-spicy sm:leading-10 leading-tight sm:mt-6",
         },
@@ -33,11 +33,11 @@ export default function TokenomicsSection() {
       content: {
         classes: "flex flex-col-reverse",
         main: {
-          text: "Staking & Airdrop",
+          text: "Pump.fun",
           classes: "sm:text-3xl text-[13.665px] px-2",
         },
         sub: {
-          text: "25%",
+          text: "70%",
           classes: "sm:text-[37.5px] text-[17px] font-spicy leading-tight",
         },
       },
@@ -51,12 +51,12 @@ export default function TokenomicsSection() {
       imageClasses: "",
       content: {
         main: {
-          text: "30%",
+          text: "11%",
           classes:
             "text-[20.7px] sm:text-[43.5px] font-spicy px-2 leading-tight",
         },
         sub: {
-          text: "Presale & Partnership",
+          text: "CEX Listing & Marketing",
           classes: "sm:text-[37.5px] text-[17px] font-spicy leading-tight",
         },
       },
@@ -74,7 +74,7 @@ export default function TokenomicsSection() {
           classes: "sm:text-[34px] text-[13.6px] px-4",
         },
         sub: {
-          text: "10%",
+          text: "6%",
           classes: "sm:text-[42.5px] text-[17px] font-spicy",
         },
       },
