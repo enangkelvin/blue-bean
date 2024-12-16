@@ -4,7 +4,7 @@ export default function HowToBuySection() {
   const buyMethods = [
     {
       title: "Create a Wallet",
-      content: `<p>Download <span class="font-bold">Tonkeeper</span> wallet.</p>`,
+      content: `<p>Download <span class="font-bold">Phantom</span> wallet.</p>`,
       bg: "bg-[#FC6]",
       text: "text-[#FC6]",
       classes: "sm:ml-6",
@@ -16,8 +16,8 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Use Ton to purchase $BEANZ",
-      content: `<p>You can <span class="font-bold">Purchase Ton</span> On your <span class="font-bold">wallet</span> direct with your banking card, or you can buy from an exchange like Kucoin or Mexc and send to your new wallet address.</p>`,
+      title: "Use SOL to purchase $BEANZ",
+      content: `<p>You can <span class="font-bold">Purchase SOL</span> On your <span class="font-bold">wallet</span> direct with your banking card, or you can buy from an exchange like Binance or Mexc and send to your new wallet address.</p>`,
       bg: "bg-[#FF6D66]",
       text: "text-[#FF6D66]",
       classes: "sm:ml-6 sm:mt-4",
@@ -29,7 +29,7 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Go to Ston.Fi",
+      title: "Go to Jup.ag",
       content: `<p><a href="#">SPace for link</a> From your <span class="font-bold">mobile wallet browser</span> or via <span class="font-bold">google chrome on pc</span>. Connect your wallet to the site and sign the wallet signature.</p>`,
       bg: "bg-[#9FB3FF]",
       text: "text-[#9FB3FF]",
@@ -41,8 +41,8 @@ export default function HowToBuySection() {
       },
     },
     {
-      title: "Swap TON for <br/>$BEANZ",
-      content: "<p>Switch Ton to $BEANZ, and fatten the bean.</p>",
+      title: "Swap SOL for <br/>$BEANZ",
+      content: "<p>Switch SOL to $BEANZ, and fatten the bean.</p>",
       bg: "bg-[#65CAFD]",
       text: "text-[#65CAFD]",
       classes: "sm:mt-4",
