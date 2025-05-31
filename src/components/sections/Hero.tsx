@@ -27,7 +27,7 @@ export default function Hero() {
                 <BlueBean />
               </h1>
               <p className="text-2xl font-medium text-[#F0F0F0] mt-7 mb-8">
-                The bean hopped on the blockchain train, aiming to grow into a
+                The bean hopped on the Solana blockchain train, aiming to grow into a
                 big, juicy <span className="font-bold">Bitbean!</span>
               </p>
               <Link href="">
