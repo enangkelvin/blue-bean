@@ -1,8 +1,8 @@
 import NavBar from "@/components/NavBar";
 import Hero from "@/components/sections/Hero";
-import HowToBuySection from "@/components/sections/HowToBuySection";
-import RoadmapSection from "@/components/sections/RoadmapSection";
-import TokenomicsSection from "@/components/sections/TokenomicsSection";
+//import HowToBuySection from "@/components/sections/HowToBuySection";
+//import RoadmapSection from "@/components/sections/RoadmapSection";
+//import TokenomicsSection from "@/components/sections/TokenomicsSection";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -40,7 +40,7 @@ export default function Home() {
           />
           <div className="flex gap-6">
             <Link
-              href="https://t.me/bluebeanton"
+              href="https://t.me/bluebeanfun"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Join us on Telegram"
@@ -74,7 +74,7 @@ export default function Home() {
           <span className="z-[1]">
             ©{" "}
             <span className="font-spicy">
-              Blue Bean 2024 all rights reserved{" "}
+              Blue Bean 2025 all rights reserved{" "}
             </span>
           </span>
         </div>
