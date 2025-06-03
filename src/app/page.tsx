@@ -1,8 +1,8 @@
 import NavBar from "@/components/NavBar";
 import Hero from "@/components/sections/Hero";
-import HowToBuySection from "@/components/sections/HowToBuySection";
+/** import HowToBuySection from "@/components/sections/HowToBuySection";
 import RoadmapSection from "@/components/sections/RoadmapSection";
-import TokenomicsSection from "@/components/sections/TokenomicsSection";
+import TokenomicsSection from "@/components/sections/TokenomicsSection"; **/
 import Image from "next/image";
 import Link from "next/link";
 
@@ -24,12 +24,7 @@ export default function Home() {
         <NavBar />
       </div>
 
-      <main className="isolate">
-        <Hero />
-        <HowToBuySection />
-        <TokenomicsSection />
-        <RoadmapSection />
-      </main>
+      
       <footer className="bg-[url('/footer-bg.svg')] bg-fill bg-center relative sm:text-xl text-lg text-[#F0F0F0] flex items-center justify-center">
         <div className="container mx-auto flex flex-col items-center gap-6 pb-2 pt-8 text-center">
           <Image
