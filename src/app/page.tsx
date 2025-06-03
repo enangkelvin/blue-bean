@@ -56,7 +56,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href="https://twitter.com/bluebean_xyz"
+              href="https://twitter.com/bluebeanfun"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Follow us on Twitter"
