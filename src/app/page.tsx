@@ -1,8 +1,8 @@
 import NavBar from "@/components/NavBar";
 import Hero from "@/components/sections/Hero";
-//import HowToBuySection from "@/components/sections/HowToBuySection";
-//import RoadmapSection from "@/components/sections/RoadmapSection";
-//import TokenomicsSection from "@/components/sections/TokenomicsSection";
+import HowToBuySection from "@/components/sections/HowToBuySection";
+import RoadmapSection from "@/components/sections/RoadmapSection";
+import TokenomicsSection from "@/components/sections/TokenomicsSection";
 import Image from "next/image";
 import Link from "next/link";
 
