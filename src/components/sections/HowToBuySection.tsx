@@ -1,4 +1,4 @@
-import Image from "next/image";
+/** import Image from "next/image";
 import HowToBuyHeading from "@/components/headings/HowToBuyHeading";
 export default function HowToBuySection() {
   const buyMethods = [
@@ -138,4 +138,4 @@ export default function HowToBuySection() {
       </div>
     </section>
   );
-}
+} **/ 
